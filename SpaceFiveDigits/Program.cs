@@ -26,4 +26,6 @@
         // displaying each digit separtely by a single space on screen
         Console.WriteLine(digit1 + " " + digit2 + " " + digit3 + " " + digit4 + " " + digit5);
     }
+    // end of Main method
 }
+// end of C3Q28 class
